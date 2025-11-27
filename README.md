@@ -1,2 +1,3 @@
 # Major-Project
 Implementation Of KAN In Time Series Analysis 
+The project titled “Dam Discharge Forecasting Using Kolmogorov–Arnold Networks (KAN)” presents an intelligent data-driven solution designed to accurately predict dam discharge, which represents the rate of water released through dam gates over time. This forecasting process is essential for the safe and efficient management of water resources, as it influences a range of downstream operations including irrigation scheduling, flood control, hydropower generation, and reservoir management. Accurate prediction of discharge enables dam authorities to make informed decisions that balance safety and utility, particularly during critical weather events such as heavy rainfall or drought.
